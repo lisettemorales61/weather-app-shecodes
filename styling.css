@@ -1,0 +1,47 @@
+body {
+  border: 20px;
+}
+form {
+  position: relative;
+  margin-top: 40px;
+  left: 900px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  position: relative;
+  font-size: 50px;
+  margin-bottom: 30px;
+}
+.container {
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.date {
+  position: relative;
+  font-size: 15px;
+  margin-top: 20px;
+}
+.current-temp {
+  position: relative;
+  font-size: 30px;
+}
+.current-conditions {
+  position: relative;
+  font-size: 20px;
+}
+.col-3 {
+  position: relative;
+  left: 500px;
+  top: -75px;
+}
+.col-2 {
+  position: relative;
+  bottom: -15px;
+  left: 110px;
+}
+.buttons {
+  position: relative;
+  left: 900px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 20px;
+}
